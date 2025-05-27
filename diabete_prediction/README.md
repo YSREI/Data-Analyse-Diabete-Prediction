@@ -69,7 +69,7 @@ The goal is to assist in early diagnosis and potential prevention of Type 2 diab
 
 | File               | Description                                  |
 | ------------------ | -------------------------------------------- |
-| `Data1.py`         | Full training, evaluation, and SHAP pipeline |
+| `Data.py`          | Full training, evaluation, and SHAP pipeline |
 | `requirements.txt` | Environment dependencies                     |
 
 
